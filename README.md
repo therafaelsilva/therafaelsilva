@@ -18,8 +18,6 @@
   </a>
 </p>
 
-<img align="" src="https://ik.imagekit.io/wxjs8ddgsv/therafaelsilva02_IPzX3V3LuJ.png" alt="therafaelsilva" border="0" width="60px">
-
 <img src="https://ik.imagekit.io/wxjs8ddgsv/therafaelsilva_e1tHWfy57.png" alt="therafaelsilva" border="0" width="80px">
 
 <h4>
